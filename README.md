@@ -21,6 +21,13 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+![image](https://github.com/GURUMUR/exno1/assets/144895197/87477527-d066-4e54-81e8-221fa86e191e)
+![image](https://github.com/GURUMUR/exno1/assets/144895197/d361493b-c8f1-4f2e-86ff-88d0b6ab7dc8)
+![image](https://github.com/GURUMUR/exno1/assets/144895197/7e895f6d-2f61-47f7-9957-6268e8d13760)
+![image](https://github.com/GURUMUR/exno1/assets/144895197/a9121318-efd3-41eb-a0fd-6cce49409d52)
+![image](https://github.com/GURUMUR/exno1/assets/144895197/f370a473-9499-4bc1-80e0-ae326d68d2f2)
+![image](https://github.com/GURUMUR/exno1/assets/144895197/4ebfe224-94bf-4686-982f-2f9ac8e5aeb4)
+![image](https://github.com/GURUMUR/exno1/assets/144895197/d04b48fb-39c3-4e7e-b54d-6e1815b3bfd4)
+
 # Result
-          <<include your Result here>>
+Hence the program successfilly completed.
